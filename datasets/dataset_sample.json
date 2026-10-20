@@ -1,16 +1,22 @@
-{
-  "PRD_SAMPLE_001": {
-    "nombre_comercial": "Producto de Ejemplo",
-    "codigo": "PRD-001",
-    "ruta_imagen": "./productos/ejemplo.jpg",
-    "data_marketing": {
-      "titulo_marketplace": "Producto de Ejemplo - Excelente Estado",
-      "descripcion_premium": "Descripción generada por IA para pruebas demostrativas.",
-      "copy_marketplace": "Oferta especial de prueba. Envíos a coordinar."
-    },
-    "metadata": {
-      "procesado_el": "2026-10-08T00:00:00Z",
-      "status": "completado"
-    }
+[
+  {
+    "code": "vestido_lino_azul",
+    "relative_path": "productos/ejemplo/vestido-lino-azul/01.jpg",
+    "gallery_images": [
+      "productos/ejemplo/vestido-lino-azul/01.jpg",
+      "productos/ejemplo/vestido-lino-azul/02.jpg"
+    ],
+    "titulo_premium": "Vestido de lino azul",
+    "comercial_name": "Vestido de lino azul",
+    "description_marketplace": "Vestido midi de lino en tono azul, fresco y ligero.\n\n🏷️ Disponible en tallas: S, M, L, XL\n\n📩 Haz tu pedido por DM o vía WhatsApp\n📱 9️⃣0️⃣0️⃣ 1️⃣1️⃣1️⃣ 2️⃣2️⃣2️⃣\n🚚 Envíos a todo el país\n📲 Conecta con tu estilo más vibrante:\n\n📸 Más modelos en:\n👉 Instagram: @tienda_ejemplo\n👉 Facebook: Tienda Ejemplo\n📱 9️⃣0️⃣0️⃣ 1️⃣1️⃣1️⃣ 2️⃣2️⃣2️⃣",
+    "description_instagram": "Lino azul para los días de calor.\n\n📩 Escríbenos al DM o al WhatsApp de nuestro perfil para ayudarte con tu talla.\n\n#vestido #lino #TiendaEjemplo #ModaLocal",
+    "short_descripcion": "Vestido midi de lino, fresco y ligero 💙",
+    "category": "Ropa y calzado de mujer",
+    "brand": "Tienda Ejemplo",
+    "tags": ["vestido", "lino"],
+    "price": 120,
+    "price_offer": null,
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "published": { "facebook": false, "instagram": false, "whatsapp": false }
   }
-}
+]
