@@ -10,3 +10,4 @@ datasets/*.json
 *.log
 brand.json
 errors/
+.temp_uploads/
