@@ -1,0 +1,16 @@
+{
+  "PRD_SAMPLE_001": {
+    "nombre_comercial": "Producto de Ejemplo",
+    "codigo": "PRD-001",
+    "ruta_imagen": "./productos/ejemplo.jpg",
+    "data_marketing": {
+      "titulo_marketplace": "Producto de Ejemplo - Excelente Estado",
+      "descripcion_premium": "Descripción generada por IA para pruebas demostrativas.",
+      "copy_marketplace": "Oferta especial de prueba. Envíos a coordinar."
+    },
+    "metadata": {
+      "procesado_el": "2026-10-08T00:00:00Z",
+      "status": "completado"
+    }
+  }
+}

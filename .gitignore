@@ -1,0 +1,12 @@
+node_modules/
+.output/
+.wxt/
+fb_session/
+productos/
+datasets/*.json
+!datasets/dataset_sample.json
+.env
+.env.local
+*.log
+brand.json
+errors/
